@@ -9,7 +9,13 @@
   box-sizing: border-box;
 
   font-family: "Poppins", monospace;
+  color: var(--Text);
 }
 
 body {
+  background-color: var(--Base);
+}
+
+nav {
+  background-color: yellow;
 }
