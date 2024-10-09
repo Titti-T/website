@@ -1,3 +1,8 @@
+:root {
+  --Base: #1e1e2e;
+  --Text: #cdd6f4;
+}
+
 * {
   margin: 0;
   padding: 0;
