@@ -1,6 +1,7 @@
 :root {
-  --Base: #1e1e2e;
-  --Text: #cdd6f4;
+  --Base:   #1e1e2e;
+  --Mantle: #181825;
+  --Text:   #cdd6f4;
 }
 
 * {
