@@ -20,5 +20,5 @@ body {
 nav {
   width: 17.5vw;
   height: 100vh;
-  background-color: yellow;
+  background-color: var(--Mantle);
 }
